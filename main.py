@@ -4,7 +4,7 @@ import mysql.connector
 import json
 
 # Connexion à la base de données MySQL
-cnx = mysql.connector.connect(user='root', password='barhoumi@0011',
+cnx = mysql.connector.connect(user='root', password='*********',
                               port=3306,
                               host='192.168.94.131',
                               database='webscraping')
